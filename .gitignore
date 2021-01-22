@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+app/build
+
+#Camera Library
+cameralibrary/
+
+#OpenCV Library
+openCVLibrary310/
+
+#truetime
+truetime/
+
+#testimages verification
+app/testimages/verification
+
+#release apk
+app/release/
